@@ -1,0 +1,145 @@
+# XaloAC SMS-Bomber Lisansı ve Sorumluluk Reddi
+
+**Sürüm:** 1.0
+**Telif Hakkı © 2026 XaloAC. Tüm Hakları Saklıdır.**
+
+---
+
+# 1. Projenin Amacı
+
+**XaloAC SMS-Bomber**, yalnızca **eğitim, araştırma, yazılım geliştirme ve siber güvenlik farkındalığı** amacıyla hazırlanmış bir projedir.
+
+Bu proje; SMS doğrulama sistemlerinin çalışma mantığını, hız sınırlama (Rate Limit) mekanizmalarını, güvenlik önlemlerini ve savunma yöntemlerini anlamaya yardımcı olmak amacıyla geliştirilmiştir.
+
+Bu yazılımın amacı hiçbir şekilde spam, taciz, hizmet engelleme veya yasa dışı faaliyetleri desteklemek değildir.
+
+---
+
+# 2. Kullanım Şartları
+
+Bu yazılımı indirerek, çalıştırarak, derleyerek veya değiştirerek aşağıdaki şartları kabul etmiş sayılırsınız.
+
+Yazılım yalnızca;
+
+* Kendi sistemlerinizde,
+* Açık izne sahip olduğunuz sistemlerde,
+* Test ortamlarında,
+* Eğitim ve araştırma çalışmalarında
+
+kullanılmalıdır.
+
+Yetkisiz kullanım tamamen kullanıcı sorumluluğundadır.
+
+---
+
+# 3. Kullanıcının Sorumluluğu
+
+Yazılımın nasıl kullanılacağı tamamen kullanıcıya aittir.
+
+Kullanıcı;
+
+* Türkiye Cumhuriyeti kanunlarına ve diğer ilgili mevzuata uymayı,
+* Üçüncü kişilerin haklarını ihlal etmemeyi,
+* Yazılımı kötü niyetli amaçlarla kullanmamayı,
+* Oluşabilecek tüm hukuki ve cezai sonuçları üstlenmeyi kabul eder.
+
+---
+
+# 4. Yasaklanan Kullanımlar
+
+Aşağıdaki amaçlarla kullanılması kesinlikle önerilmez ve **XaloAC tarafından desteklenmez**:
+
+* Kişilere rahatsızlık vermek,
+* Sürekli SMS göndererek tacizde bulunmak,
+* Spam oluşturmak,
+* Hizmet engelleme amacıyla sistemleri zorlamak,
+* Platformların kullanım şartlarını ihlal etmek,
+* Yetkisiz testler gerçekleştirmek,
+* Her türlü yasa dışı faaliyet.
+
+Bu tür kullanımların doğuracağı tüm hukuki ve cezai sorumluluk yalnızca kullanıcıya aittir.
+
+---
+
+# 5. Garanti Bulunmamaktadır
+
+Bu yazılım **olduğu gibi (AS IS)** sunulmaktadır.
+
+XaloAC;
+
+* Yazılımın hatasız çalışacağını,
+* Sürekli erişilebilir olacağını,
+* Her sistemle uyumlu olacağını,
+* Herhangi bir ihtiyacı karşılayacağını
+
+garanti etmez.
+
+---
+
+# 6. Sorumluluk Reddi
+
+XaloAC;
+
+* Veri kaybı,
+* Hesap askıya alınması,
+* Telefon numarası engellenmesi,
+* Hizmet erişim kısıtlamaları,
+* Maddi veya manevi zararlar,
+* Doğrudan veya dolaylı zararlar,
+* Hukuki veya cezai işlemler
+
+dahil olmak üzere hiçbir sonuçtan sorumlu değildir.
+
+Yazılımın kullanımından doğabilecek tüm sonuçlar yalnızca kullanıcıya aittir.
+
+---
+
+# 7. Güncelleme ve Değişiklik
+
+XaloAC;
+
+* Yazılımı güncelleme,
+* Özellik ekleme veya kaldırma,
+* Projeyi sonlandırma,
+* Bu lisans metnini değiştirme
+
+haklarını saklı tutar.
+
+---
+
+# 8. Fikri Mülkiyet
+
+Aksi belirtilmediği sürece;
+
+* Kaynak kodları,
+* Tasarımlar,
+* Logo,
+* İsim,
+* Dokümantasyon,
+* Görseller
+
+XaloAC'a aittir.
+
+İzinsiz ticari kullanım, yeniden satış veya XaloAC adı kullanılarak farklı bir proje gibi sunulması yasaktır.
+
+---
+
+# 9. Kabul
+
+Bu yazılımı indirmeniz, çalıştırmanız veya kullanmanız; bu lisans metninde yer alan tüm şartları okuduğunuz ve kabul ettiğiniz anlamına gelir.
+
+Şartları kabul etmiyorsanız yazılımı kullanmayınız.
+
+---
+
+# 10. Son Hüküm
+
+**XaloAC SMS-Bomber**, yalnızca eğitim ve araştırma amacıyla geliştirilmiş açık bir demonstrasyon projesidir.
+
+Geliştirici, kullanıcıların yazılımı nasıl kullandığını denetleyemez ve kullanıcıların gerçekleştirdiği hiçbir işlemden sorumlu tutulamaz.
+
+Yazılımın kötüye kullanılması sonucunda doğabilecek tüm hukuki, cezai ve mali sorumluluk yalnızca yazılımı kullanan kişiye aittir.
+
+---
+
+**© 2026 XaloAC — Tüm Hakları Saklıdır.**
