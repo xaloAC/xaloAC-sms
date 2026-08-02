@@ -42,7 +42,7 @@ Projeyi kullanmanız sonucunda oluşabilecek tüm hukuki ve cezai sorumluluk yal
 ## 🚀 Kurulum
 
 ```bash
-git clone https://github.com/xaloAC/SMS-Bomber.git
+git clone https://github.com/xaloAC/xaloAC-sms.git
 cd SMS-Bomber
 pip install -r requirements.txt
 python main.py
